@@ -1,6 +1,6 @@
 # tarea-pia01
 **Descripción:**
-Este repositorio tiene como propósito realizar tareas del módulo de programación de inteligencia artificial 2024/2025.
+Esta es la tarea del tema 1 de programación de inteligencia artificial.
 
 **Estructura del repositorio:**
 * **README.md:** Este archivo.
