@@ -4,4 +4,4 @@ Este repositorio tiene como propósito realizar tareas del módulo de programaci
 
 **Estructura del repositorio:**
 * **README.md:** Este archivo.
-* **hola_mundo.py:** Un script de Python básico, que muestra en pantalla el típico ¡Hola, mundo¡
+* **hola_mundo.py:** Un script de Python básico, que muestra en pantalla el típico ¡Hola, Mundo!
